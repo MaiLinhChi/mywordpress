@@ -9,7 +9,7 @@
 	<title>
 	Comments for My WordPress	</title>
 	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>http://mailinhchi.github.io/mywordpress</link>
+	<link>https://mailinhchi.github.io/mywordpress</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Wed, 15 Sep 2021 03:44:50 +0000</lastBuildDate>
 	<sy:updatePeriod>
