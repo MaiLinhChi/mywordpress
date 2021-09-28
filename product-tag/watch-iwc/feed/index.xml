@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Watch IWC</title>
+	<atom:link href="http://localhost/myproject/wordpress/product-tag/watch-iwc/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mailinhchi.github.io/mywordpress</link>
+	<description></description>
+	<lastBuildDate>Tue, 28 Sep 2021 13:40:41 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>IWC</title>
+		<link>https://mailinhchi.github.io/mywordpress/product/breguet-marie-antoinette/</link>
+					<comments>https://mailinhchi.github.io/mywordpress/product/breguet-marie-antoinette/#respond</comments>
+		
+		<dc:creator><![CDATA[user1]]></dc:creator>
+		<pubDate>Wed, 22 Sep 2021 13:05:03 +0000</pubDate>
+				<guid isPermaLink="false">https://mailinhchi.github.io/mywordpress/?post_type=product&#038;p=113</guid>
+
+					<description><![CDATA[<h1 id="prodName" class="mb-2"><a class="f-17 qvPrdURL link-black text-capitalize" href="https://www.ashford.com/iwc-iw458105-sd.html">Portofino Unisex  Watch</a></h1>
+<h5 id="prodID" class="mt-0 mb-4"><span class="prod-sku">SKU: IW458105-SD</span> <span id="qvSkuId" class="hidden" data-skuid="IW458105-SD"></span>   UPC: 7613268455401</h5>
+<ul class="product-description">
+ 	<li>Swiss Made</li>
+ 	<li>Movement: Automatic</li>
+ 	<li>Case Width: 37 mm</li>
+ 	<li>Water Resistance: 30 m (100 feet)</li>
+ 	<li>Features: Date,Diamond Hour Markers</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<h1 id="prodName" class="mb-2"><a class="f-17 qvPrdURL link-black text-capitalize" href="https://www.ashford.com/iwc-iw458105-sd.html">Portofino Unisex  Watch</a></h1>
+<h5 id="prodID" class="mt-0 mb-4"><span class="prod-sku">SKU: IW458105-SD</span> <span id="qvSkuId" class="hidden" data-skuid="IW458105-SD"></span>   UPC: 7613268455401</h5>
+<ul class="product-description">
+ 	<li>Swiss Made</li>
+ 	<li>Movement: Automatic</li>
+ 	<li>Case Width: 37 mm</li>
+ 	<li>Water Resistance: 30 m (100 feet)</li>
+ 	<li>Features: Date,Diamond Hour Markers</li>
+</ul>]]></content:encoded>
+					
+					<wfw:commentRss>https://mailinhchi.github.io/mywordpress/product/breguet-marie-antoinette/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

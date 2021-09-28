@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Những loại vali tốt nhất &#8211; My WordPress</title>
+	<title>Những loại vali tốt nhất</title>
 	<atom:link href="http://localhost/myproject/wordpress/product-tag/nhung-loai-vali-tot-nhat/feed/" rel="self" type="application/rss+xml" />
 	<link>https://mailinhchi.github.io/mywordpress</link>
-	<description>Just another WordPress site</description>
-	<lastBuildDate>Mon, 20 Sep 2021 00:34:25 +0000</lastBuildDate>
+	<description></description>
+	<lastBuildDate>Tue, 28 Sep 2021 15:00:59 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,50 +20,91 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
-		<title>Những loại vali tốt nhất</title>
-		<link></link>
+		<title>Các dòng vali nổi bậc của năm</title>
+		<link>https://mailinhchi.github.io/mywordpress/product/cac-dong-vali-noi-bac-cua-nam/</link>
+					<comments>https://mailinhchi.github.io/mywordpress/product/cac-dong-vali-noi-bac-cua-nam/#respond</comments>
 		
 		<dc:creator><![CDATA[user1]]></dc:creator>
-		<pubDate>Mon, 20 Sep 2021 00:34:25 +0000</pubDate>
-				<guid isPermaLink="false"></guid>
+		<pubDate>Fri, 24 Sep 2021 14:50:50 +0000</pubDate>
+				<guid isPermaLink="false">https://mailinhchi.github.io/mywordpress/?post_type=product&#038;p=205</guid>
 
-					<description><![CDATA[Hiển thị tất cả 5 kết quả Thứ tự mặc định Thứ tự theo mức độ phổ biến Thứ tự<p><a href="" class="more-link">Continue reading<span class="screen-reader-text">Những loại vali tốt nhất</span></a></p>]]></description>
-										<content:encoded><![CDATA[<div class="woocommerce columns-4 "><div class="woocommerce-notices-wrapper"></div><p class="woocommerce-result-count">
-	Hiển thị tất cả 5 kết quả</p>
-<form class="woocommerce-ordering" method="get">
-	<select name="orderby" class="orderby" aria-label="Đơn hàng của cửa hàng">
-					<option value="menu_order"  selected='selected'>Thứ tự mặc định</option>
-					<option value="popularity" >Thứ tự theo mức độ phổ biến</option>
-					<option value="rating" >Thứ tự theo điểm đánh giá</option>
-					<option value="date" >Mới nhất</option>
-					<option value="price" >Thứ tự theo giá: thấp đến cao</option>
-					<option value="price-desc" >Thứ tự theo giá: cao xuống thấp</option>
-			</select>
-	<input type="hidden" name="paged" value="1" />
-	</form>
-<ul class="products columns-4">
-<li class="product type-product post-205 status-publish first instock product_cat-vali-noi-bat product_tag-cac-loai-vali-noi-tieng product_tag-nhung-loai-vali-tot-nhat has-post-thumbnail shipping-taxable product-type-grouped">
-	<a href="https://mailinhchi.github.io/mywordpress/product/cac-dong-vali-noi-bac-cua-nam/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/vali22.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/vali22.jpg 300w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/vali22-100x100.jpg 100w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/vali22-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Các dòng vali nổi bậc của năm</h2>
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>5,000,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span> &ndash; <span class="woocommerce-Price-amount amount"><bdi>8,000,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-</a><a href="https://mailinhchi.github.io/mywordpress/product/cac-dong-vali-noi-bac-cua-nam/" data-quantity="1" class="button product_type_grouped" data-product_id="205" data-product_sku="VL-ALL" aria-label="Xem sản phẩm trong &ldquo;Các dòng vali nổi bậc của năm&rdquo; group" rel="nofollow">Xem sản phẩm</a></li>
-<li class="product type-product post-142 status-publish instock product_cat-vali product_tag-nhung-loai-vali-tot-nhat product_tag-samsonite-niar-spinner product_tag-vali-samsonite-niar-spinner has-post-thumbnail shipping-taxable purchasable product-type-variable has-default-attributes">
-	<a href="https://mailinhchi.github.io/mywordpress/product/vali-nhua-american-tourister-2/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/vali9.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/vali9.jpg 300w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/vali9-100x100.jpg 100w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/vali9-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Samsonite Niar Spinner</h2>
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>7,200,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span> &ndash; <span class="woocommerce-Price-amount amount"><bdi>7,500,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-</a><a href="https://mailinhchi.github.io/mywordpress/product/vali-nhua-american-tourister-2/" data-quantity="1" class="button product_type_variable add_to_cart_button" data-product_id="142" data-product_sku="KVL04" aria-label="Lựa chọn cho &ldquo;Samsonite Niar Spinner&rdquo;" rel="nofollow">Lựa chọn các tùy chọn</a></li>
-<li class="product type-product post-153 status-publish instock product_cat-vali product_tag-american-tourister-technum-trung product_tag-nhung-loai-vali-tot-nhat product_tag-vali-keo-american-tourister-technum-trung has-post-thumbnail shipping-taxable purchasable product-type-simple">
-	<a href="https://mailinhchi.github.io/mywordpress/product/vali-keo-american-tourister-technum-trung/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/vali12-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/vali12-300x300.jpg 300w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/vali12-100x100.jpg 100w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/vali12-600x600.jpg 600w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/vali12-150x150.jpg 150w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/vali12-768x768.jpg 768w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/vali12-508x508.jpg 508w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/vali12.jpg 900w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Vali kéo American Tourister Technum Trung</h2>
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>5,000,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-</a><a href="https://mailinhchi.github.io/mywordpress/product/vali-keo-american-tourister-technum-trung/?add-to-cart=153" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="153" data-product_sku="KVL03" aria-label="Thêm &ldquo;Vali kéo American Tourister Technum Trung&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
-<li class="product type-product post-154 status-publish last instock product_cat-vali product_tag-lojel-rando product_tag-nhung-loai-vali-tot-nhat product_tag-vali-lojel-rando has-post-thumbnail shipping-taxable purchasable product-type-simple">
-	<a href="https://mailinhchi.github.io/mywordpress/product/samsonite-aeris-comfort-spinner/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/vali16.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/vali16.jpg 300w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/vali16-100x100.jpg 100w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/vali16-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Vali Lojel Rando</h2>
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>7,584,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-</a><a href="https://mailinhchi.github.io/mywordpress/product/samsonite-aeris-comfort-spinner/?add-to-cart=154" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="154" data-product_sku="KVL06" aria-label="Thêm &ldquo;Vali Lojel Rando&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
-<li class="product type-product post-150 status-publish first instock product_cat-vali product_tag-american-tourister product_tag-nhung-loai-vali-tot-nhat product_tag-vali-nhua-american-tourister has-post-thumbnail shipping-taxable product-type-simple">
-	<a href="https://mailinhchi.github.io/mywordpress/product/vali-nhua-american-tourister-3/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/vali12-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/vali12-300x300.jpg 300w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/vali12-100x100.jpg 100w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/vali12-600x600.jpg 600w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/vali12-150x150.jpg 150w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/vali12-768x768.jpg 768w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/vali12-508x508.jpg 508w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/vali12.jpg 900w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Vali Nhựa American Tourister</h2>
-</a><a href="https://mailinhchi.github.io/mywordpress/product/vali-nhua-american-tourister-3/" data-quantity="1" class="button product_type_simple" data-product_id="150" data-product_sku="KVL02" aria-label="Đọc thêm về &ldquo;Vali Nhựa American Tourister&rdquo;" rel="nofollow">Đọc tiếp</a></li>
-</ul>
-</div>]]></content:encoded>
+					<description><![CDATA[Dưới đây là danh sách các loại vali nỗi bật trong năm nay]]></description>
+										<content:encoded><![CDATA[Dưới đây là danh sách các loại vali nỗi bật trong năm nay]]></content:encoded>
 					
+					<wfw:commentRss>https://mailinhchi.github.io/mywordpress/product/cac-dong-vali-noi-bac-cua-nam/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Vali Lojel Rando</title>
+		<link>https://mailinhchi.github.io/mywordpress/product/samsonite-aeris-comfort-spinner/</link>
+					<comments>https://mailinhchi.github.io/mywordpress/product/samsonite-aeris-comfort-spinner/#respond</comments>
+		
+		<dc:creator><![CDATA[user1]]></dc:creator>
+		<pubDate>Thu, 23 Sep 2021 14:11:53 +0000</pubDate>
+				<guid isPermaLink="false">https://mailinhchi.github.io/mywordpress/?post_type=product&#038;p=154</guid>
+
+					<description><![CDATA[Bên dưới Vali là một bộ bánh xe quay tròn trơn tru với mỗi lượt. Bạn có thể kéo hoặc đẩy Vali này dễ dàng ở mọi nơi bạn đến. Vali được bảo đảm bởi hệ thống khóa TSA cùng với khóa kéo cuộn đôi khó khăn hơn nhiều để giả mạo. Vali Lojel Rando này có sẵn màu đỏ gạch, đen và xanh thép. Bạn cũng có thể chọn từ kích thước nhỏ, trung bình hoặc lớn.]]></description>
+										<content:encoded><![CDATA[<p><strong>Vali Lojel Rando</strong> kiểu dáng đẹp là một Vali được thiết kế tốt dưới 5 triệu. Nó có dung tích ban đầu là 69 lít, có thể mở rộng thêm lên tối đa 76 lít. Điều này cho phép bạn linh hoạt giữ cho nó nhỏ gọn hơn hoặc lớn hơn để phù hợp với đồ đạc thêm của bạn. Vali này được làm bằng polycarbonate có trọng lượng nhẹ nhưng cấu trúc chắc chắn. Nó chỉ nặng 4kg nhưng lớp vỏ bên ngoài của nó cung cấp sự bảo vệ tốt khỏi những va chạm hoặc va chạm vô tình.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://mailinhchi.github.io/mywordpress/product/samsonite-aeris-comfort-spinner/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Vali kéo American Tourister Technum Trung</title>
+		<link>https://mailinhchi.github.io/mywordpress/product/vali-keo-american-tourister-technum-trung/</link>
+					<comments>https://mailinhchi.github.io/mywordpress/product/vali-keo-american-tourister-technum-trung/#respond</comments>
+		
+		<dc:creator><![CDATA[user1]]></dc:creator>
+		<pubDate>Thu, 23 Sep 2021 14:11:26 +0000</pubDate>
+				<guid isPermaLink="false">https://mailinhchi.github.io/mywordpress/?post_type=product&#038;p=153</guid>
+
+					<description><![CDATA[Đối với tùy chọn có kích thước cabin, bạn sẽ có quyền truy cập vào dung tích 37 lít, trải rộng trên 2 ngăn chính và nhiều khu vực có khóa kéo. Mỗi bên của ngăn có một dải ruy băng chéo giúp giữ đồ đạc của bạn đúng chỗ.]]></description>
+										<content:encoded><![CDATA[<p>Bạn có thể tự hỏi tại sao chúng tôi thích giới thiệu Vali American Tourister. Đó là bởi vì chúng tôi yêu thích các thiết kế hợp thời trang của họ, chức năng được suy nghĩ kỹ lưỡng và quan trọng nhất là giá cả hợp lý. Nếu bạn chưa biết, American Tourister cũng thuộc sở hữu của Samsonite, một trong những thương hiệu Vali hàng đầu trên thế giới. Tuy nhiên, Vali Samsonite có giá cao hơn – đó là lý do tại sao American Tourister là một sự thay thế tuyệt vời cho những ai muốn chất lượng ở mức giá thấp hơn.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://mailinhchi.github.io/mywordpress/product/vali-keo-american-tourister-technum-trung/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Vali Nhựa American Tourister</title>
+		<link>https://mailinhchi.github.io/mywordpress/product/vali-nhua-american-tourister-3/</link>
+					<comments>https://mailinhchi.github.io/mywordpress/product/vali-nhua-american-tourister-3/#respond</comments>
+		
+		<dc:creator><![CDATA[user1]]></dc:creator>
+		<pubDate>Thu, 23 Sep 2021 14:08:07 +0000</pubDate>
+				<guid isPermaLink="false">https://mailinhchi.github.io/mywordpress/?post_type=product&#038;p=150</guid>
+
+					<description><![CDATA[Có khoảng 6 màu khác nhau có sẵn như citron, hồng mâm xôi, đen, xanh scuba và trắng. Bạn có thể lấy Vali này với 3 kích cỡ khác nhau – 79cm x 29cm, 66cm x 24cm hoặc 55cm x 20 cm.]]></description>
+										<content:encoded><![CDATA[<p>Nếu bạn thường giữ các vật có giá trị trong Vali, hãy cân nhắc lấy <strong>American Tourister Trigard Spinner</strong> . Đó là một Vali có vỏ cứng được bảo vệ bởi hệ thống khóa XtraSecu 3 điểm có thể ngăn chặn mọi nỗ lực trộm cắp. Ngoài ra, Vali này không sử dụng khóa kéo ở bên ngoài. Đã có một số trường hợp Vali dây kéo dễ dàng bị phá vỡ vì nó dễ dàng hơn để cắt qua các khóa. Với hộp cứng và khóa an toàn, Vali này sẽ bảo vệ các vật có giá trị của bạn tốt hơn nhiều so với hầu hết các Vali khác.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://mailinhchi.github.io/mywordpress/product/vali-nhua-american-tourister-3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Samsonite Niar Spinner</title>
+		<link>https://mailinhchi.github.io/mywordpress/product/vali-nhua-american-tourister-2/</link>
+					<comments>https://mailinhchi.github.io/mywordpress/product/vali-nhua-american-tourister-2/#respond</comments>
+		
+		<dc:creator><![CDATA[user1]]></dc:creator>
+		<pubDate>Thu, 23 Sep 2021 13:54:13 +0000</pubDate>
+				<guid isPermaLink="false">https://mailinhchi.github.io/mywordpress/?post_type=product&#038;p=142</guid>
+
+					<description><![CDATA[Mô hình 78cm x 29cm cung cấp dung tích tối đa 130 lít có thể đạt được bằng cách phát hành thiết bị mở rộng 4 phía của nó. Nếu không mở rộng, bạn vẫn sẽ có quyền truy cập vào 114 lít không gian]]></description>
+										<content:encoded><![CDATA[<p>Samsonite là một trong những thương hiệu Vali cao cấp hàng đầu tại Singapore, Việt Nam . Đồng thời, giá của một Vali Samsonite vẫn phải chăng hơn nhiều so với giá từ các thương hiệu như Tumi và Rimowa. Theo chúng tôi, thiết kế tối giản của <strong>Vali Nhựa Samsonite Niar TSA </strong>thể hiện sự chuyên nghiệp khiến nó trở nên hoàn hảo cho việc đi công tác. Chúng tôi yêu thích lớp hoàn thiện mờ có sẵn bằng bạc hoặc than chì</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://mailinhchi.github.io/mywordpress/product/vali-nhua-american-tourister-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>

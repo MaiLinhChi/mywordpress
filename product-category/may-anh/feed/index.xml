@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Máy ảnh &#8211; My WordPress</title>
+	<title>Máy ảnh</title>
 	<atom:link href="http://localhost/myproject/wordpress/product-category/may-anh/feed/" rel="self" type="application/rss+xml" />
 	<link>https://mailinhchi.github.io/mywordpress</link>
-	<description>Just another WordPress site</description>
-	<lastBuildDate>Mon, 20 Sep 2021 00:34:25 +0000</lastBuildDate>
+	<description></description>
+	<lastBuildDate>Mon, 27 Sep 2021 14:57:44 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,60 +20,157 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
-		<title>Máy ảnh</title>
-		<link></link>
+		<title>Sony Cyber-shot RX10 IV</title>
+		<link>https://mailinhchi.github.io/mywordpress/product/sony-cyber-shot-rx10-iv/</link>
+					<comments>https://mailinhchi.github.io/mywordpress/product/sony-cyber-shot-rx10-iv/#respond</comments>
 		
 		<dc:creator><![CDATA[user1]]></dc:creator>
-		<pubDate>Mon, 20 Sep 2021 00:34:25 +0000</pubDate>
-				<guid isPermaLink="false"></guid>
+		<pubDate>Wed, 22 Sep 2021 12:53:56 +0000</pubDate>
+				<guid isPermaLink="false">https://mailinhchi.github.io/mywordpress/?post_type=product&#038;p=108</guid>
 
-					<description><![CDATA[Bắt trọn từng khoảnh khắc Hiển thị tất cả 6 kết quả Thứ tự mặc định Thứ tự theo mức<p><a href="" class="more-link">Continue reading<span class="screen-reader-text">Máy ảnh</span></a></p>]]></description>
-										<content:encoded><![CDATA[<div class="term-description"><p>Bắt trọn từng khoảnh khắc</p>
-</div><div class="woocommerce columns-4 "><div class="woocommerce-notices-wrapper"></div><p class="woocommerce-result-count">
-	Hiển thị tất cả 6 kết quả</p>
-<form class="woocommerce-ordering" method="get">
-	<select name="orderby" class="orderby" aria-label="Đơn hàng của cửa hàng">
-					<option value="menu_order"  selected='selected'>Thứ tự mặc định</option>
-					<option value="popularity" >Thứ tự theo mức độ phổ biến</option>
-					<option value="rating" >Thứ tự theo điểm đánh giá</option>
-					<option value="date" >Mới nhất</option>
-					<option value="price" >Thứ tự theo giá: thấp đến cao</option>
-					<option value="price-desc" >Thứ tự theo giá: cao xuống thấp</option>
-			</select>
-	<input type="hidden" name="paged" value="1" />
-	</form>
-<ul class="products columns-4">
-<li class="product type-product post-96 status-publish first instock product_cat-may-anh product_tag-canon-powershot-g5x-mark-ii product_tag-may-anh-canon-powershot-g5x-mark-ii has-post-thumbnail shipping-taxable purchasable product-type-simple">
-	<a href="https://mailinhchi.github.io/mywordpress/product/canon-powershot-g5x-mark-ii/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/cmr7-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/cmr7-300x300.jpg 300w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/cmr7-100x100.jpg 100w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/cmr7-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Canon PowerShot G5X Mark II</h2>
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>25,600,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-</a><a href="https://mailinhchi.github.io/mywordpress/product/canon-powershot-g5x-mark-ii/?add-to-cart=96" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="96" data-product_sku="CMR03" aria-label="Thêm &ldquo;Canon PowerShot G5X Mark II&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
-<li class="product type-product post-104 status-publish instock product_cat-may-anh product_tag-may-anh-nikon-z6 product_tag-nikon-z6 has-post-thumbnail shipping-taxable purchasable product-type-simple">
-	<a href="https://mailinhchi.github.io/mywordpress/product/nikon-z6/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/cmr13-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/cmr13-300x300.jpg 300w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/cmr13-100x100.jpg 100w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/cmr13-150x150.jpg 150w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/cmr13-508x508.jpg 508w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Nikon Z6</h2>
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>17,000,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-</a><a href="https://mailinhchi.github.io/mywordpress/product/nikon-z6/?add-to-cart=104" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="104" data-product_sku="CMR05" aria-label="Thêm &ldquo;Nikon Z6&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
-<li class="product type-product post-78 status-publish instock product_cat-may-anh has-post-thumbnail sale shipping-taxable purchasable product-type-simple">
-	<a href="https://mailinhchi.github.io/mywordpress/product/panasonic-lumix-zs200/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
-	<span class="onsale">Giảm giá!</span>
-	<img width="300" height="300" src="https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/img5-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/img5-300x300.jpg 300w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/img5-100x100.jpg 100w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/img5-600x600.jpg 600w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/img5-1024x1024.jpg 1024w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/img5-150x150.jpg 150w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/img5-768x768.jpg 768w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/img5-508x508.jpg 508w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/img5.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Panasonic Lumix ZS200</h2>
-	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi>11,000,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi>9,547,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></ins></span>
-</a><a href="https://mailinhchi.github.io/mywordpress/product/panasonic-lumix-zs200/?add-to-cart=78" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="78" data-product_sku="CMR02" aria-label="Thêm &ldquo;Panasonic Lumix ZS200&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
-<li class="product type-product post-108 status-publish last instock product_cat-may-anh product_tag-may-anh-sony-cyber-shot-rx10-iv product_tag-sony-cyber-shot-rx10-iv has-post-thumbnail shipping-taxable purchasable product-type-simple">
-	<a href="https://mailinhchi.github.io/mywordpress/product/sony-cyber-shot-rx10-iv/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/cmr16-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/cmr16-300x300.jpg 300w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/cmr16-100x100.jpg 100w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/cmr16-150x150.jpg 150w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/cmr16-508x508.jpg 508w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Sony Cyber-shot RX10 IV</h2>
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>11,500,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-</a><a href="https://mailinhchi.github.io/mywordpress/product/sony-cyber-shot-rx10-iv/?add-to-cart=108" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="108" data-product_sku="CMR06" aria-label="Thêm &ldquo;Sony Cyber-shot RX10 IV&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
-<li class="product type-product post-71 status-publish first instock product_cat-may-anh has-post-thumbnail sale shipping-taxable purchasable product-type-simple">
-	<a href="https://mailinhchi.github.io/mywordpress/product/sony-cyber-shot-rx100-iii/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
-	<span class="onsale">Giảm giá!</span>
-	<img width="300" height="300" src="https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/cmr1-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/cmr1-300x300.jpg 300w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/cmr1-100x100.jpg 100w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/cmr1-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Sony Cyber-shot RX100 III</h2>
-	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi>13,000,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi>10,500,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></ins></span>
-</a><a href="https://mailinhchi.github.io/mywordpress/product/sony-cyber-shot-rx100-iii/?add-to-cart=71" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="71" data-product_sku="CMR01" aria-label="Thêm &ldquo;Sony Cyber-shot RX100 III&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
-<li class="product type-product post-100 status-publish instock product_cat-may-anh product_tag-may-anh-sony-cyber-shot-rx100-vii product_tag-sony-cyber-shot-rx100-vii has-post-thumbnail shipping-taxable purchasable product-type-simple">
-	<a href="https://mailinhchi.github.io/mywordpress/product/sony-cyber-shot-rx100-vii/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/cmr10-300x300.jpeg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/cmr10-300x300.jpeg 300w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/cmr10-100x100.jpeg 100w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/cmr10-150x150.jpeg 150w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/cmr10-508x508.jpeg 508w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Sony Cyber-shot RX100 VII</h2>
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>26,500,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-</a><a href="https://mailinhchi.github.io/mywordpress/product/sony-cyber-shot-rx100-vii/?add-to-cart=100" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="100" data-product_sku="CMR04" aria-label="Thêm &ldquo;Sony Cyber-shot RX100 VII&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
-</ul>
-</div>]]></content:encoded>
+					<description><![CDATA[<ul>
+ 	<li>Cảm biến: loại 1 inch, 20,2MP</li>
+ 	<li>Ống kính: 24-600mm, f / 2.4-4</li>
+ 	<li>Màn hình: Màn hình cảm ứng góc nghiêng 3.0 inch, chấm 1.44m</li>
+ 	<li>Kính ngắm: EVF</li>
+ 	<li>Chụp liên tục: 24 khung hình / giây</li>
+ 	<li>Quay Phim: 4K</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<p>Đối với một số nhiếp ảnh gia, họ cần một chiếc máy ảnh có thể chịu được việc bị va chạm mạnh hoặc nhiệt độ thất thường, và đó chính xác là những gì Olympus TG-6 có. Máy ảnh này còn cung cấp khả năng quay video 4K, tích hợp Wi-Fi và một vòng đèn LED quanh ống kính để chiếu nhiều ánh sáng vào các đối tượng cận cảnh. Thậm chí còn có tùy chọn để chụp các tệp thô.</p>
+]]></content:encoded>
 					
+					<wfw:commentRss>https://mailinhchi.github.io/mywordpress/product/sony-cyber-shot-rx10-iv/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Nikon Z6</title>
+		<link>https://mailinhchi.github.io/mywordpress/product/nikon-z6/</link>
+					<comments>https://mailinhchi.github.io/mywordpress/product/nikon-z6/#respond</comments>
+		
+		<dc:creator><![CDATA[user1]]></dc:creator>
+		<pubDate>Wed, 22 Sep 2021 12:46:23 +0000</pubDate>
+				<guid isPermaLink="false">https://mailinhchi.github.io/mywordpress/?post_type=product&#038;p=104</guid>
+
+					<description><![CDATA[<ul>
+ 	<li>Cảm biến: Toàn khung hình, 24,5MP</li>
+ 	<li>Gắn ống kính: Nikon Z</li>
+ 	<li>Màn hình: 3,2 inch, 2.100K chấm</li>
+ 	<li>Kính ngắm: EVF</li>
+ 	<li>Chụp liên tục: 12fps</li>
+ 	<li>Quay Phim: 4K</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<p>Nikon Z6 được gọi là chiếc máy ảnh “Toàn Diện” trong dòng sản phẩm Z mới của Nikon. Z6 được trang bị cảm biến CMOS BSI định dạng FX 24.5 triệu điểm ảnh hiệu suất cao và động cơ xử lý hình ảnh EXPEED 6, mang đến chất lượng hình ảnh và tốc độ đáng chú ý, với dải tần nhạy sáng ISO 100-51200.</p>
+<p>Nikon Z6 còn là chiếc <strong>máy ảnh du lịch</strong> có cảm biến toàn khung hình. Ngoài ra còn có khả năng quay 12 khung hình / giây, video 4K, màn hình cảm ứng nghiêng và kính ngắm độ phân giải cao đẹp mắt. Mặc dù vẫn còn khá hạn chế, nhưng các ống kính nguyên bản có sẵn cho dòng Z đang nhanh chóng được tung ra thị trường.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://mailinhchi.github.io/mywordpress/product/nikon-z6/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Sony Cyber-shot RX100 VII</title>
+		<link>https://mailinhchi.github.io/mywordpress/product/sony-cyber-shot-rx100-vii/</link>
+					<comments>https://mailinhchi.github.io/mywordpress/product/sony-cyber-shot-rx100-vii/#respond</comments>
+		
+		<dc:creator><![CDATA[user1]]></dc:creator>
+		<pubDate>Wed, 22 Sep 2021 12:40:31 +0000</pubDate>
+				<guid isPermaLink="false">https://mailinhchi.github.io/mywordpress/?post_type=product&#038;p=100</guid>
+
+					<description><![CDATA[<ul>
+ 	<li>Cảm biến: loại 1 inch, 20.1MP</li>
+ 	<li>Ống kính: 24-200mm, f / 2.8-4.5</li>
+ 	<li>Màn hình: Màn hình cảm ứng góc nghiêng 3.0 inch, chấm 921K</li>
+ 	<li>Kính ngắm: EVF</li>
+ 	<li>Chụp liên tục: 90 khung hình / giây</li>
+ 	<li>Quay Phim: 4K</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<p>Sony đã cách mạng hóa máy ảnh compact cao cấp với RX100 nguyên bản vì đây là máy ảnh bỏ túi đầu tiên có cảm biến 1.0 inch. Nó chứa các tính năng mà bạn có thể chưa từng sử dụng, chẳng hạn như chế độ chụp 90fps, cũng như các tính năng phổ biến hơn như video 4K.</p>
+<p>Nhược điểm lớn của chiếc máy này là giá siêu cao so với dòng máy ảnh du lịch. Nhưng nếu bạn muốn thứ tốt nhất cho chuyến đi của mình, thì đây là lựa chọn vô cùng tuyệt vời.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://mailinhchi.github.io/mywordpress/product/sony-cyber-shot-rx100-vii/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Canon PowerShot G5X Mark II</title>
+		<link>https://mailinhchi.github.io/mywordpress/product/canon-powershot-g5x-mark-ii/</link>
+					<comments>https://mailinhchi.github.io/mywordpress/product/canon-powershot-g5x-mark-ii/#respond</comments>
+		
+		<dc:creator><![CDATA[user1]]></dc:creator>
+		<pubDate>Wed, 22 Sep 2021 12:33:54 +0000</pubDate>
+				<guid isPermaLink="false">https://mailinhchi.github.io/mywordpress/?post_type=product&#038;p=96</guid>
+
+					<description><![CDATA[<ul>
+ 	<li>Cảm biến: loại 1 inch, 20.1MP</li>
+ 	<li>Ống kính: 24-120mm, f / 1.8-2.8</li>
+ 	<li>Màn hình: Màn hình cảm ứng 3.0 inch, 1.040K chấm</li>
+ 	<li>Kính ngắm: EVF</li>
+ 	<li>Chụp liên tục: 20 khung hình / giây</li>
+ 	<li>Quay Phim: 4K</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<p>Ảnh chụp từ G5X Mark II không hoàn hảo khi phóng to, nó bù lại ở các cấu hình khác. Với khẩu độ tối đa rộng trong suốt chiều dài tiêu cự, đây là một chiếc máy ảnh rất phù hợp với nhiều điều kiện ánh sáng. Nó có cảm biến 1 inch hiệu suất cao, video 4K tuyệt vời và kính ngắm điện tử kết hợp tốt với màn hình LCD nghiêng. Chắc chắn có nhiều máy ảnh tiên tiến hơn trên thị trường, nhưng không nhiều máy ảnh kết hợp một loạt các tính năng tốt như thế này trong một mức giá cạnh tranh.</p>
+<p>Bên cạnh đó, với khả năng kết nối wifi để livestream, Canon G5X Mark II là người bạn đồng hành không thể thiếu đối với bạn trẻ yêu thích ghi lại các khoảnh khắc của cuộc sống hay các vlogger thường xuyên làm video.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://mailinhchi.github.io/mywordpress/product/canon-powershot-g5x-mark-ii/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Sony Cyber-shot RX100 III</title>
+		<link>https://mailinhchi.github.io/mywordpress/product/sony-cyber-shot-rx100-iii/</link>
+					<comments>https://mailinhchi.github.io/mywordpress/product/sony-cyber-shot-rx100-iii/#respond</comments>
+		
+		<dc:creator><![CDATA[user1]]></dc:creator>
+		<pubDate>Wed, 22 Sep 2021 08:39:59 +0000</pubDate>
+				<guid isPermaLink="false">https://mailinhchi.github.io/mywordpress/?post_type=product&#038;p=71</guid>
+
+					<description><![CDATA[<ul>
+ 	<li>Cảm biến: loại 1 inch, 20.1MP</li>
+ 	<li>Ống kính: 24-70mm, f / 1.8-2.8</li>
+ 	<li>Màn hình: Màn hình góc nghiêng 3.0 inch, chấm 1.229K</li>
+ 	<li>Kính ngắm: EVF</li>
+ 	<li>Chụp liên tục: 10 khung hình / giây</li>
+ 	<li>Quay phim: 4K</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<p>RX100 III của Sony hiện đã được vài năm tuổi nhưng vẫn là một đối thủ đáng gờm trong <strong>dòng máy ảnh du lịch</strong>. Nhìn cấu hình của nó thì biết. Máy có cảm biến 1 inch 20,1MP khá tốt, kính ngắm điện tử và quay video 4K, thân kim loại cao cấp. Còn nhược điểm chính là zoom khá ngắn so với các đối thủ khác cùng phân khúc.</p>
+<p>Wi-Fi® và NFC (Giao tiếp tầm ngắn) của Sony Cyber-shot RX100 III cho phép truyền hình ảnh hoặc phim không dây đến TV, điện thoại thông minh Android và máy tính bảng tương thích với NFC.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://mailinhchi.github.io/mywordpress/product/sony-cyber-shot-rx100-iii/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Panasonic Lumix ZS200</title>
+		<link>https://mailinhchi.github.io/mywordpress/product/panasonic-lumix-zs200/</link>
+					<comments>https://mailinhchi.github.io/mywordpress/product/panasonic-lumix-zs200/#respond</comments>
+		
+		<dc:creator><![CDATA[user1]]></dc:creator>
+		<pubDate>Wed, 22 Sep 2021 08:30:40 +0000</pubDate>
+				<guid isPermaLink="false">https://mailinhchi.github.io/mywordpress/?post_type=product&#038;p=78</guid>
+
+					<description><![CDATA[<ul>
+ 	<li>Cảm biến: loại 1 inch, 20.1MP</li>
+ 	<li>Ống kính: 24-360mm, f / 3.3-6.4</li>
+ 	<li>Màn hình: Màn hình cảm ứng 3.0 inch, 1.240K chấm</li>
+ 	<li>Kính ngắm: EVF</li>
+ 	<li>Chụp liên tục: 10 khung hình / giây</li>
+ 	<li>Quay Phim: 4K</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<p>Panasonic ZS200 là máy ảnh zoom nhỏ gọn. Ngoài việc chụp ảnh tĩnh 20MP, nó cũng có thể quay video UHD 4K chất lượng khá. ZS200 có khả năng thu phóng tốt nhất so với bất kỳ máy ảnh dòng compact nào. Với ưu điểm thiết kế đẹp, gọn, ống kính Leica Vario-Elmar có tiêu cự 24mm đến 360mm (tiêu cự quy đổi), đây sẽ là <strong>máy ảnh du lịch</strong> đáng cân nhắc.</p>
+<p>Máy có đủ các kết nối không dây như Wifi, Bluetooth, MicroHDMI, Micro USB. Viên pin của máy có thể trụ được tối đa 370 tấm chỉ với 1 lần sạc đầy.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://mailinhchi.github.io/mywordpress/product/panasonic-lumix-zs200/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>

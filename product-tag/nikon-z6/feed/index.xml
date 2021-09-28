@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Nikon Z6 &#8211; My WordPress</title>
+	<title>Nikon Z6</title>
 	<atom:link href="http://localhost/myproject/wordpress/product-tag/nikon-z6/feed/" rel="self" type="application/rss+xml" />
 	<link>https://mailinhchi.github.io/mywordpress</link>
-	<description>Just another WordPress site</description>
-	<lastBuildDate>Mon, 20 Sep 2021 00:34:25 +0000</lastBuildDate>
+	<description></description>
+	<lastBuildDate>Mon, 27 Sep 2021 14:56:55 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,34 +21,27 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
 		<title>Nikon Z6</title>
-		<link></link>
+		<link>https://mailinhchi.github.io/mywordpress/product/nikon-z6/</link>
+					<comments>https://mailinhchi.github.io/mywordpress/product/nikon-z6/#respond</comments>
 		
 		<dc:creator><![CDATA[user1]]></dc:creator>
-		<pubDate>Mon, 20 Sep 2021 00:34:25 +0000</pubDate>
-				<guid isPermaLink="false"></guid>
+		<pubDate>Wed, 22 Sep 2021 12:46:23 +0000</pubDate>
+				<guid isPermaLink="false">https://mailinhchi.github.io/mywordpress/?post_type=product&#038;p=104</guid>
 
-					<description><![CDATA[Hiển thị kết quả duy nhất Thứ tự mặc định Thứ tự theo mức độ phổ biến Thứ tự theo<p><a href="" class="more-link">Continue reading<span class="screen-reader-text">Nikon Z6</span></a></p>]]></description>
-										<content:encoded><![CDATA[<div class="woocommerce columns-4 "><div class="woocommerce-notices-wrapper"></div><p class="woocommerce-result-count">
-	Hiển thị kết quả duy nhất</p>
-<form class="woocommerce-ordering" method="get">
-	<select name="orderby" class="orderby" aria-label="Đơn hàng của cửa hàng">
-					<option value="menu_order"  selected='selected'>Thứ tự mặc định</option>
-					<option value="popularity" >Thứ tự theo mức độ phổ biến</option>
-					<option value="rating" >Thứ tự theo điểm đánh giá</option>
-					<option value="date" >Mới nhất</option>
-					<option value="price" >Thứ tự theo giá: thấp đến cao</option>
-					<option value="price-desc" >Thứ tự theo giá: cao xuống thấp</option>
-			</select>
-	<input type="hidden" name="paged" value="1" />
-	</form>
-<ul class="products columns-4">
-<li class="product type-product post-104 status-publish first instock product_cat-may-anh product_tag-may-anh-nikon-z6 product_tag-nikon-z6 has-post-thumbnail shipping-taxable purchasable product-type-simple">
-	<a href="https://mailinhchi.github.io/mywordpress/product/nikon-z6/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/cmr13-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/cmr13-300x300.jpg 300w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/cmr13-100x100.jpg 100w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/cmr13-150x150.jpg 150w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/cmr13-508x508.jpg 508w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Nikon Z6</h2>
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>17,000,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-</a><a href="https://mailinhchi.github.io/mywordpress/product/nikon-z6/?add-to-cart=104" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="104" data-product_sku="CMR05" aria-label="Thêm &ldquo;Nikon Z6&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
-</ul>
-</div>]]></content:encoded>
+					<description><![CDATA[<ul>
+ 	<li>Cảm biến: Toàn khung hình, 24,5MP</li>
+ 	<li>Gắn ống kính: Nikon Z</li>
+ 	<li>Màn hình: 3,2 inch, 2.100K chấm</li>
+ 	<li>Kính ngắm: EVF</li>
+ 	<li>Chụp liên tục: 12fps</li>
+ 	<li>Quay Phim: 4K</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<p>Nikon Z6 được gọi là chiếc máy ảnh “Toàn Diện” trong dòng sản phẩm Z mới của Nikon. Z6 được trang bị cảm biến CMOS BSI định dạng FX 24.5 triệu điểm ảnh hiệu suất cao và động cơ xử lý hình ảnh EXPEED 6, mang đến chất lượng hình ảnh và tốc độ đáng chú ý, với dải tần nhạy sáng ISO 100-51200.</p>
+<p>Nikon Z6 còn là chiếc <strong>máy ảnh du lịch</strong> có cảm biến toàn khung hình. Ngoài ra còn có khả năng quay 12 khung hình / giây, video 4K, màn hình cảm ứng nghiêng và kính ngắm độ phân giải cao đẹp mắt. Mặc dù vẫn còn khá hạn chế, nhưng các ống kính nguyên bản có sẵn cho dòng Z đang nhanh chóng được tung ra thị trường.</p>
+]]></content:encoded>
 					
+					<wfw:commentRss>https://mailinhchi.github.io/mywordpress/product/nikon-z6/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>

@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Breguet &#8211; My WordPress</title>
+	<title>Breguet</title>
 	<atom:link href="http://localhost/myproject/wordpress/product-tag/breguet/feed/" rel="self" type="application/rss+xml" />
 	<link>https://mailinhchi.github.io/mywordpress</link>
-	<description>Just another WordPress site</description>
-	<lastBuildDate>Mon, 20 Sep 2021 00:34:25 +0000</lastBuildDate>
+	<description></description>
+	<lastBuildDate>Tue, 28 Sep 2021 14:46:58 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,34 +21,34 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
 		<title>Breguet</title>
-		<link></link>
+		<link>https://mailinhchi.github.io/mywordpress/product/breguet/</link>
+					<comments>https://mailinhchi.github.io/mywordpress/product/breguet/#respond</comments>
 		
 		<dc:creator><![CDATA[user1]]></dc:creator>
-		<pubDate>Mon, 20 Sep 2021 00:34:25 +0000</pubDate>
-				<guid isPermaLink="false"></guid>
+		<pubDate>Wed, 22 Sep 2021 13:30:37 +0000</pubDate>
+				<guid isPermaLink="false">https://mailinhchi.github.io/mywordpress/?post_type=product&#038;p=126</guid>
 
-					<description><![CDATA[Hiển thị kết quả duy nhất Thứ tự mặc định Thứ tự theo mức độ phổ biến Thứ tự theo<p><a href="" class="more-link">Continue reading<span class="screen-reader-text">Breguet</span></a></p>]]></description>
-										<content:encoded><![CDATA[<div class="woocommerce columns-4 "><div class="woocommerce-notices-wrapper"></div><p class="woocommerce-result-count">
-	Hiển thị kết quả duy nhất</p>
-<form class="woocommerce-ordering" method="get">
-	<select name="orderby" class="orderby" aria-label="Đơn hàng của cửa hàng">
-					<option value="menu_order"  selected='selected'>Thứ tự mặc định</option>
-					<option value="popularity" >Thứ tự theo mức độ phổ biến</option>
-					<option value="rating" >Thứ tự theo điểm đánh giá</option>
-					<option value="date" >Mới nhất</option>
-					<option value="price" >Thứ tự theo giá: thấp đến cao</option>
-					<option value="price-desc" >Thứ tự theo giá: cao xuống thấp</option>
-			</select>
-	<input type="hidden" name="paged" value="1" />
-	</form>
-<ul class="products columns-4">
-<li class="product type-product post-126 status-publish first instock product_cat-dong-ho product_tag-breguet product_tag-cac-loai-dong-ho-noi-tieng product_tag-dong-ho-breguet has-post-thumbnail shipping-taxable purchasable product-type-variable">
-	<a href="https://mailinhchi.github.io/mywordpress/product/breguet/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/watch19-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/watch19-300x300.jpg 300w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/watch19-100x100.jpg 100w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/watch19-150x150.jpg 150w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/watch19-508x508.jpg 508w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Breguet</h2>
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>18,600,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span> &ndash; <span class="woocommerce-Price-amount amount"><bdi>20,000,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-</a><a href="https://mailinhchi.github.io/mywordpress/product/breguet/" data-quantity="1" class="button product_type_variable add_to_cart_button" data-product_id="126" data-product_sku="DH06" aria-label="Lựa chọn cho &ldquo;Breguet&rdquo;" rel="nofollow">Lựa chọn các tùy chọn</a></li>
-</ul>
-</div>]]></content:encoded>
+					<description><![CDATA[<h1 id="prodName" class="mb-2"><a class="f-17 qvPrdURL link-black text-capitalize" href="https://www.ashford.com/breguet-5247bb129v6.html">Classique Men's Dress Watch</a></h1>
+<h5 id="prodID" class="mt-0 mb-4"><span class="prod-sku">SKU: 5247BB129V6</span><span id="qvSkuId" class="hidden" data-skuid="5247BB129V6"></span></h5>
+<ul class="product-description">
+ 	<li>Swiss Made</li>
+ 	<li>Movement: Manual-Wind</li>
+ 	<li>Case Width: 40 mm</li>
+ 	<li>Water Resistance: 30 m (100 feet)</li>
+ 	<li>Features: Chronograph,30 Minute Register, Central Second Register, Small Seconds</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<h1 id="prodName" class="mb-2"><a class="f-17 qvPrdURL link-black text-capitalize" href="https://www.ashford.com/breguet-5247bb129v6.html">Classique Men's Dress Watch</a></h1>
+<h5 id="prodID" class="mt-0 mb-4"><span class="prod-sku">SKU: 5247BB129V6</span><span id="qvSkuId" class="hidden" data-skuid="5247BB129V6"></span></h5>
+<ul class="product-description">
+ 	<li>Swiss Made</li>
+ 	<li>Movement: Manual-Wind</li>
+ 	<li>Case Width: 40 mm</li>
+ 	<li>Water Resistance: 30 m (100 feet)</li>
+ 	<li>Features: Chronograph,30 Minute Register, Central Second Register, Small Seconds</li>
+</ul>]]></content:encoded>
 					
+					<wfw:commentRss>https://mailinhchi.github.io/mywordpress/product/breguet/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>

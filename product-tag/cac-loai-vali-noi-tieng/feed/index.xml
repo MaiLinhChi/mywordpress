@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Các loại vali nổi tiếng &#8211; My WordPress</title>
+	<title>Các loại vali nổi tiếng</title>
 	<atom:link href="http://localhost/myproject/wordpress/product-tag/cac-loai-vali-noi-tieng/feed/" rel="self" type="application/rss+xml" />
 	<link>https://mailinhchi.github.io/mywordpress</link>
-	<description>Just another WordPress site</description>
-	<lastBuildDate>Mon, 20 Sep 2021 00:34:25 +0000</lastBuildDate>
+	<description></description>
+	<lastBuildDate>Mon, 27 Sep 2021 14:07:53 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,47 +20,56 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
-		<title>Các loại vali nổi tiếng</title>
-		<link></link>
+		<title>Các dòng vali nổi bậc của năm</title>
+		<link>https://mailinhchi.github.io/mywordpress/product/cac-dong-vali-noi-bac-cua-nam/</link>
+					<comments>https://mailinhchi.github.io/mywordpress/product/cac-dong-vali-noi-bac-cua-nam/#respond</comments>
 		
 		<dc:creator><![CDATA[user1]]></dc:creator>
-		<pubDate>Mon, 20 Sep 2021 00:34:25 +0000</pubDate>
-				<guid isPermaLink="false"></guid>
+		<pubDate>Fri, 24 Sep 2021 14:50:50 +0000</pubDate>
+				<guid isPermaLink="false">https://mailinhchi.github.io/mywordpress/?post_type=product&#038;p=205</guid>
 
-					<description><![CDATA[Hiển thị tất cả 4 kết quả Thứ tự mặc định Thứ tự theo mức độ phổ biến Thứ tự<p><a href="" class="more-link">Continue reading<span class="screen-reader-text">Các loại vali nổi tiếng</span></a></p>]]></description>
-										<content:encoded><![CDATA[<div class="woocommerce columns-4 "><div class="woocommerce-notices-wrapper"></div><p class="woocommerce-result-count">
-	Hiển thị tất cả 4 kết quả</p>
-<form class="woocommerce-ordering" method="get">
-	<select name="orderby" class="orderby" aria-label="Đơn hàng của cửa hàng">
-					<option value="menu_order"  selected='selected'>Thứ tự mặc định</option>
-					<option value="popularity" >Thứ tự theo mức độ phổ biến</option>
-					<option value="rating" >Thứ tự theo điểm đánh giá</option>
-					<option value="date" >Mới nhất</option>
-					<option value="price" >Thứ tự theo giá: thấp đến cao</option>
-					<option value="price-desc" >Thứ tự theo giá: cao xuống thấp</option>
-			</select>
-	<input type="hidden" name="paged" value="1" />
-	</form>
-<ul class="products columns-4">
-<li class="product type-product post-205 status-publish first instock product_cat-vali-noi-bat product_tag-cac-loai-vali-noi-tieng product_tag-nhung-loai-vali-tot-nhat has-post-thumbnail shipping-taxable product-type-grouped">
-	<a href="https://mailinhchi.github.io/mywordpress/product/cac-dong-vali-noi-bac-cua-nam/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/vali22.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/vali22.jpg 300w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/vali22-100x100.jpg 100w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/vali22-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Các dòng vali nổi bậc của năm</h2>
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>5,000,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span> &ndash; <span class="woocommerce-Price-amount amount"><bdi>8,000,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-</a><a href="https://mailinhchi.github.io/mywordpress/product/cac-dong-vali-noi-bac-cua-nam/" data-quantity="1" class="button product_type_grouped" data-product_id="205" data-product_sku="VL-ALL" aria-label="Xem sản phẩm trong &ldquo;Các dòng vali nổi bậc của năm&rdquo; group" rel="nofollow">Xem sản phẩm</a></li>
-<li class="product type-product post-121 status-publish instock product_cat-dong-ho product_tag-cac-loai-vali-noi-tieng product_tag-vacheron-constantin product_tag-vali-vacheron-constantin has-post-thumbnail shipping-taxable purchasable product-type-simple">
-	<a href="https://mailinhchi.github.io/mywordpress/product/vacheron-constantin/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/watch13-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/watch13-300x300.jpg 300w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/watch13-100x100.jpg 100w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/watch13-150x150.jpg 150w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/watch13-508x508.jpg 508w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Vacheron Constantin</h2>
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>6,000,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-</a><a href="https://mailinhchi.github.io/mywordpress/product/vacheron-constantin/?add-to-cart=121" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="121" data-product_sku="DH05" aria-label="Thêm &ldquo;Vacheron Constantin&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
-<li class="product type-product post-165 status-publish instock product_cat-vali product_tag-cac-loai-vali-noi-tieng product_tag-delsey-belmont product_tag-vali-delsey-belmont has-post-thumbnail shipping-taxable purchasable product-type-simple">
-	<a href="https://mailinhchi.github.io/mywordpress/product/vali-lojel-rando-sao-chep/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/vali19.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/vali19.jpg 300w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/vali19-100x100.jpg 100w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/vali19-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Vali Delsey Belmont</h2>
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>8,000,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-</a><a href="https://mailinhchi.github.io/mywordpress/product/vali-lojel-rando-sao-chep/?add-to-cart=165" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="165" data-product_sku="KVL07" aria-label="Thêm &ldquo;Vali Delsey Belmont&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
-<li class="product type-product post-138 status-publish last instock product_cat-vali product_tag-american-tourister product_tag-cac-loai-vali-noi-tieng product_tag-vali-nhua-american-tourister has-post-thumbnail shipping-taxable purchasable product-type-variable has-default-attributes">
-	<a href="https://mailinhchi.github.io/mywordpress/product/vali-nhua-american-tourister/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/vali3-300x300.jpeg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/vali3-300x300.jpeg 300w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/vali3-100x100.jpeg 100w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/vali3-600x600.jpeg 600w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/vali3-1024x1024.jpeg 1024w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/vali3-150x150.jpeg 150w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/vali3-768x768.jpeg 768w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/vali3-1536x1536.jpeg 1536w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/vali3-508x508.jpeg 508w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/vali3.jpeg 2000w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Vali Nhựa American Tourister</h2>
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>6,900,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span> &ndash; <span class="woocommerce-Price-amount amount"><bdi>8,000,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-</a><a href="https://mailinhchi.github.io/mywordpress/product/vali-nhua-american-tourister/" data-quantity="1" class="button product_type_variable add_to_cart_button" data-product_id="138" data-product_sku="KVL01" aria-label="Lựa chọn cho &ldquo;Vali Nhựa American Tourister&rdquo;" rel="nofollow">Lựa chọn các tùy chọn</a></li>
-</ul>
-</div>]]></content:encoded>
+					<description><![CDATA[Dưới đây là danh sách các loại vali nỗi bật trong năm nay]]></description>
+										<content:encoded><![CDATA[Dưới đây là danh sách các loại vali nỗi bật trong năm nay]]></content:encoded>
 					
+					<wfw:commentRss>https://mailinhchi.github.io/mywordpress/product/cac-dong-vali-noi-bac-cua-nam/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Vali Delsey Belmont</title>
+		<link>https://mailinhchi.github.io/mywordpress/product/vali-lojel-rando-sao-chep/</link>
+					<comments>https://mailinhchi.github.io/mywordpress/product/vali-lojel-rando-sao-chep/#respond</comments>
+		
+		<dc:creator><![CDATA[user1]]></dc:creator>
+		<pubDate>Thu, 23 Sep 2021 14:23:18 +0000</pubDate>
+				<guid isPermaLink="false">https://mailinhchi.github.io/mywordpress/?post_type=product&#038;p=165</guid>
+
+					<description><![CDATA[Bạn có thể nhận được <strong>Vali Delsey Belmont</strong> ở 4 độ cao khác nhau – 55cm, 71cm, 76cm và 82cm. Đối với màu sắc, có 3 tùy chọn là xanh lam, tím và xám đen. Nếu bạn nghĩ rằng Vali Samsonite nằm ngoài ngân sách của bạn, thì đây là một sự thay thế tuyệt vời!]]></description>
+										<content:encoded><![CDATA[<p>Bạn muốn một Vali bằng polypropylen chắc chắn như Samsonite Aeris với giá rẻ hơn? Sau đó, bạn nên kiểm tra <strong>Vali Delsey Belmont</strong> . Cơ thể của nó cũng được làm bằng polypropylen làm cho nó trở thành một vỏ ngoài chắc chắn và mạnh mẽ cho mọi thứ bên trong Vali của bạn. Tốt nhất của tất cả, nó có giá rẻ hơn khoảng 30%!</p>
+<p>Để phòng chống trộm cắp, Delsey Belmont gửi Vali có khóa kết hợp TSA cùng với hệ thống zip chống trộm an toàn. Khóa kéo của nó mạnh hơn ba lần so với khóa kéo Vali thông thường và ngăn chặn các mục không được gửi vào Vali của bạn. Chúng tôi cũng là những người hâm mộ lớn về vẻ ngoài tối giản của Vali này khiến nó đủ linh hoạt cho một kỳ nghỉ hoặc chuyến công tác.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://mailinhchi.github.io/mywordpress/product/vali-lojel-rando-sao-chep/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Vali Nhựa American Tourister</title>
+		<link>https://mailinhchi.github.io/mywordpress/product/vali-nhua-american-tourister/</link>
+					<comments>https://mailinhchi.github.io/mywordpress/product/vali-nhua-american-tourister/#respond</comments>
+		
+		<dc:creator><![CDATA[user1]]></dc:creator>
+		<pubDate>Thu, 23 Sep 2021 13:17:04 +0000</pubDate>
+				<guid isPermaLink="false">https://mailinhchi.github.io/mywordpress/?post_type=product&#038;p=138</guid>
+
+					<description><![CDATA[Nó có dung tích tải khởi điểm cabin 20 inch, có thể mở rộng thêm lên 30 inch. Mặc dù Vali này có vỏ cứng, nhưng nó vẫn khá nhẹ chỉ 3,1kg.]]></description>
+										<content:encoded><![CDATA[<p>Mặt trong của Vali được thiết kế tốt. Nó có các ngăn tạo ra các ngăn để bạn dễ dàng phân tách đồ đạc của bạn. Bên cạnh một bộ chia lưới, Vali này cũng đi kèm với một túi treo rất tốt cho đồ đạc quan trọng hơn của bạn như hộ chiếu của bạn. Vali này được bảo vệ bởi một khóa được TSA phê duyệt giúp bạn yên tâm khi bạn kiểm tra hoặc để nó trong khách sạn của bạn.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://mailinhchi.github.io/mywordpress/product/vali-nhua-american-tourister/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>

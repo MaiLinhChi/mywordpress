@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Patek Philippe &#8211; My WordPress</title>
+	<title>Patek Philippe</title>
 	<atom:link href="http://localhost/myproject/wordpress/product-tag/patek-philippe/feed/" rel="self" type="application/rss+xml" />
 	<link>https://mailinhchi.github.io/mywordpress</link>
-	<description>Just another WordPress site</description>
-	<lastBuildDate>Mon, 20 Sep 2021 00:34:25 +0000</lastBuildDate>
+	<description></description>
+	<lastBuildDate>Mon, 27 Sep 2021 14:11:36 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,34 +21,20 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
 		<title>Patek Philippe</title>
-		<link></link>
+		<link>https://mailinhchi.github.io/mywordpress/product/patek-philippe/</link>
+					<comments>https://mailinhchi.github.io/mywordpress/product/patek-philippe/#respond</comments>
 		
 		<dc:creator><![CDATA[user1]]></dc:creator>
-		<pubDate>Mon, 20 Sep 2021 00:34:25 +0000</pubDate>
-				<guid isPermaLink="false"></guid>
+		<pubDate>Wed, 22 Sep 2021 09:10:57 +0000</pubDate>
+				<guid isPermaLink="false">https://mailinhchi.github.io/mywordpress/?post_type=product&#038;p=90</guid>
 
-					<description><![CDATA[Hiển thị kết quả duy nhất Thứ tự mặc định Thứ tự theo mức độ phổ biến Thứ tự theo<p><a href="" class="more-link">Continue reading<span class="screen-reader-text">Patek Philippe</span></a></p>]]></description>
-										<content:encoded><![CDATA[<div class="woocommerce columns-4 "><div class="woocommerce-notices-wrapper"></div><p class="woocommerce-result-count">
-	Hiển thị kết quả duy nhất</p>
-<form class="woocommerce-ordering" method="get">
-	<select name="orderby" class="orderby" aria-label="Đơn hàng của cửa hàng">
-					<option value="menu_order"  selected='selected'>Thứ tự mặc định</option>
-					<option value="popularity" >Thứ tự theo mức độ phổ biến</option>
-					<option value="rating" >Thứ tự theo điểm đánh giá</option>
-					<option value="date" >Mới nhất</option>
-					<option value="price" >Thứ tự theo giá: thấp đến cao</option>
-					<option value="price-desc" >Thứ tự theo giá: cao xuống thấp</option>
-			</select>
-	<input type="hidden" name="paged" value="1" />
-	</form>
-<ul class="products columns-4">
-<li class="product type-product post-90 status-publish first instock product_cat-dong-ho product_tag-cac-loai-dong-ho-noi-tieng product_tag-dong-ho-patek-philippe product_tag-patek-philippe has-post-thumbnail shipping-taxable purchasable product-type-variable">
-	<a href="https://mailinhchi.github.io/mywordpress/product/patek-philippe/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/watch6-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/watch6-300x300.jpg 300w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/watch6-100x100.jpg 100w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/watch6-150x150.jpg 150w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/watch6-508x508.jpg 508w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Patek Philippe</h2>
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>10,000,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></span>
-</a><a href="https://mailinhchi.github.io/mywordpress/product/patek-philippe/" data-quantity="1" class="button product_type_variable add_to_cart_button" data-product_id="90" data-product_sku="DH02" aria-label="Lựa chọn cho &ldquo;Patek Philippe&rdquo;" rel="nofollow">Lựa chọn các tùy chọn</a></li>
-</ul>
-</div>]]></content:encoded>
+					<description><![CDATA[Patek Philippe là thương hiệu đồng hồ Thụy Sĩ do Antoni Patek thành lập năm 1851, nổi tiếng về độ chính xác và sự tinh xảo của mình. Các dòng sản phẩm nổi bật: Calatrava, Complication, Nautilus, Aquanaut.]]></description>
+										<content:encoded><![CDATA[<p><strong>Patek Philippe</strong> là thương hiệu đồng hồ Thụy Sĩ do <strong>Antoni Patek</strong> thành lập năm 1851, nổi tiếng về độ chính xác và sự tinh xảo của mình.</p>
+<p><strong>Các dòng sản phẩm nổi bật:</strong> Calatrava, Complication, Nautilus, Aquanaut.</p>
+]]></content:encoded>
 					
+					<wfw:commentRss>https://mailinhchi.github.io/mywordpress/product/patek-philippe/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
