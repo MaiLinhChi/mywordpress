@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Du lịch ở Thụy Sĩ &#8211; My WordPress</title>
+	<title>Du lịch ở Thụy Sĩ</title>
 	<atom:link href="http://localhost/myproject/wordpress/product-tag/du-lich-o-thuy-si/feed/" rel="self" type="application/rss+xml" />
 	<link>https://mailinhchi.github.io/mywordpress</link>
-	<description>Just another WordPress site</description>
-	<lastBuildDate>Mon, 20 Sep 2021 00:34:25 +0000</lastBuildDate>
+	<description></description>
+	<lastBuildDate>Fri, 01 Oct 2021 14:28:22 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,37 +20,22 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
-		<title>Du lịch ở Thụy Sĩ</title>
-		<link></link>
+		<title>Tour du lịch Thụy Sĩ</title>
+		<link>https://mailinhchi.github.io/mywordpress/product/tour-du-lich-thuy-si/</link>
+					<comments>https://mailinhchi.github.io/mywordpress/product/tour-du-lich-thuy-si/#respond</comments>
 		
 		<dc:creator><![CDATA[user1]]></dc:creator>
-		<pubDate>Mon, 20 Sep 2021 00:34:25 +0000</pubDate>
-				<guid isPermaLink="false"></guid>
+		<pubDate>Fri, 24 Sep 2021 15:16:05 +0000</pubDate>
+				<guid isPermaLink="false">https://mailinhchi.github.io/mywordpress/?post_type=product&#038;p=210</guid>
 
-					<description><![CDATA[Hiển thị kết quả duy nhất Thứ tự mặc định Thứ tự theo mức độ phổ biến Thứ tự theo<p><a href="" class="more-link">Continue reading<span class="screen-reader-text">Du lịch ở Thụy Sĩ</span></a></p>]]></description>
-										<content:encoded><![CDATA[<div class="woocommerce columns-4 "><div class="woocommerce-notices-wrapper"></div><p class="woocommerce-result-count">
-	Hiển thị kết quả duy nhất</p>
-<form class="woocommerce-ordering" method="get">
-	<select name="orderby" class="orderby" aria-label="Đơn hàng của cửa hàng">
-					<option value="menu_order"  selected='selected'>Thứ tự mặc định</option>
-					<option value="popularity" >Thứ tự theo mức độ phổ biến</option>
-					<option value="rating" >Thứ tự theo điểm đánh giá</option>
-					<option value="date" >Mới nhất</option>
-					<option value="price" >Thứ tự theo giá: thấp đến cao</option>
-					<option value="price-desc" >Thứ tự theo giá: cao xuống thấp</option>
-			</select>
-	<input type="hidden" name="paged" value="1" />
-	</form>
-<ul class="products columns-4">
-<li class="product type-product post-210 status-publish first instock product_cat-tour-du-lich product_tag-du-lich-o-thuy-si product_tag-mua-ve-di-thuy-si product_tag-tour-du-lich-thuy-si has-post-thumbnail sale virtual purchasable product-type-simple">
-	<a href="https://mailinhchi.github.io/mywordpress/product/tour-du-lich-thuy-si/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
-	<span class="onsale">Giảm giá!</span>
-	<img width="300" height="300" src="https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/france1-1-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/france1-1-300x300.jpg 300w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/france1-1-100x100.jpg 100w, https://mailinhchi.github.io/mywordpress/wp-content/uploads/2021/09/france1-1-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Tour du lịch Thụy Sĩ</h2>
-	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi>50,000,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi>47,999,999&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></ins></span>
-</a><a href="https://mailinhchi.github.io/mywordpress/product/tour-du-lich-thuy-si/?add-to-cart=210" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="210" data-product_sku="VDL-TS" aria-label="Thêm &ldquo;Tour du lịch Thụy Sĩ&rdquo; vào giỏ hàng" rel="nofollow">Thêm vào giỏ hàng</a></li>
-</ul>
-</div>]]></content:encoded>
+					<description><![CDATA[Thụy Sĩ là một quốc gia Trung Âu, với đường biên giới giáp nhiều quốc gia du lịch nổi tiếng như <a href="https://deviet.vn/diem-den/duc/">Đức</a>, <a href="https://deviet.vn/diem-den/phap/">Pháp</a>, <a href="https://deviet.vn/diem-den/y/">Ý</a>, <a href="https://deviet.vn/diem-den/ao/">Áo</a> và Liechtenstein. Diện tích hơn 40 ngàn km vuông của quốc gia này được bao phủ phần lớn bởi những ngọn núi cao của dãy Alps (20&#38; diện tích của dãy núi nổi tiếng này nằm trên lãnh thổ của Thụy Sĩ) với khoảng 100 ngọn núi có chiều cao tương đương hoặc lớn hơn 4000 mét so với mực nước biển. Phần còn lại của quốc gia này là phần đồng bằng và dãy núi Jura ở phía Nam, giáp với nước Pháp. <a href="https://deviet.vn/tour-du-lich-chau-au-10-ngay-phap-thuy-sy-y-vatican-monaco/">Thụy Sĩ</a> được chia thành 26 bang.]]></description>
+										<content:encoded><![CDATA[<p>Thụy Sĩ là đất nước nằm trên dãy Alps thanh bình, ở vị trí trung tâm của Châu Âu với vô số phong cảnh thiên nhiên tuyệt đẹp, những hồ nước đẹp hay dòng sông băng độc đáo.</p>
+<p>Là đất nước của những thiên đường du lịch nổi tiếng như Bern, Giswill, Zürich và Luzern, một chuyến <a href="https://deviet.vn/diem-den/thuy-sy/"><strong>du lịch Thụy Sỹ</strong></a> chắc chắn sẽ là một hành trình với những trải nghiệm ấn tượng và vô cùng thú vị.</p>
+<p>Tuy vậy, bạn vẫn cảm thấy lo ngại một đất nước mà bản thân mình cũng chưa có nhiều kinh nghiệm du lịch ư? – Hãy để mình chia sẻ cho bạn một vài điểm nổi bật về<strong> <a href="https://deviet.vn/tour/tour-2018-phap-thuy-sy-y-vatican/">du lịch Thụy Sĩ</a></strong>” để chuyến hành trình tới với quốc gia xinh đẹp này của bạn được trọn vẹn hơn nhé!</p>
+]]></content:encoded>
 					
+					<wfw:commentRss>https://mailinhchi.github.io/mywordpress/product/tour-du-lich-thuy-si/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
