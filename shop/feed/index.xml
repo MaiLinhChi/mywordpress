@@ -8,12 +8,12 @@
 	>
 
 <channel>
-	<title>Sản phẩm</title>
+	<title>Products</title>
 	<atom:link href="http://localhost/myproject/wordpress/shop/feed/" rel="self" type="application/rss+xml" />
 	<link>https://mailinhchi.github.io/mywordpress</link>
 	<description></description>
 	<lastBuildDate>Mon, 11 Oct 2021 13:14:42 +0000</lastBuildDate>
-	<language>vi</language>
+	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
