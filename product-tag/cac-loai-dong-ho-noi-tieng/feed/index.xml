@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/product-tag/cac-loai-dong-ho-noi-tieng/feed/" rel="self" type="application/rss+xml" />
 	<link>https://mailinhchi.github.io/mywordpress</link>
 	<description></description>
-	<lastBuildDate>Tue, 28 Sep 2021 14:46:58 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 02 Oct 2021 07:07:56 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
 		<title>Breguet</title>
-		<link>https://mailinhchi.github.io/mywordpress/product/breguet/</link>
-					<comments>https://mailinhchi.github.io/mywordpress/product/breguet/#respond</comments>
+		<link>https://mailinhchi.github.io/mywordpress/san-pham/breguet/</link>
+					<comments>https://mailinhchi.github.io/mywordpress/san-pham/breguet/#respond</comments>
 		
 		<dc:creator><![CDATA[user1]]></dc:creator>
 		<pubDate>Wed, 22 Sep 2021 13:30:37 +0000</pubDate>
@@ -47,26 +47,66 @@
  	<li>Features: Chronograph,30 Minute Register, Central Second Register, Small Seconds</li>
 </ul>]]></content:encoded>
 					
-					<wfw:commentRss>https://mailinhchi.github.io/mywordpress/product/breguet/feed/</wfw:commentRss>
+					<wfw:commentRss>https://mailinhchi.github.io/mywordpress/san-pham/breguet/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>Patek Philippe</title>
-		<link>https://mailinhchi.github.io/mywordpress/product/patek-philippe/</link>
-					<comments>https://mailinhchi.github.io/mywordpress/product/patek-philippe/#respond</comments>
+		<title>Frederique Constant</title>
+		<link>https://mailinhchi.github.io/mywordpress/san-pham/patek-philippe/</link>
+					<comments>https://mailinhchi.github.io/mywordpress/san-pham/patek-philippe/#respond</comments>
 		
 		<dc:creator><![CDATA[user1]]></dc:creator>
 		<pubDate>Wed, 22 Sep 2021 09:10:57 +0000</pubDate>
 				<guid isPermaLink="false">https://mailinhchi.github.io/mywordpress/?post_type=product&#038;p=90</guid>
 
-					<description><![CDATA[Patek Philippe là thương hiệu đồng hồ Thụy Sĩ do Antoni Patek thành lập năm 1851, nổi tiếng về độ chính xác và sự tinh xảo của mình. Các dòng sản phẩm nổi bật: Calatrava, Complication, Nautilus, Aquanaut.]]></description>
-										<content:encoded><![CDATA[<p><strong>Patek Philippe</strong> là thương hiệu đồng hồ Thụy Sĩ do <strong>Antoni Patek</strong> thành lập năm 1851, nổi tiếng về độ chính xác và sự tinh xảo của mình.</p>
-<p><strong>Các dòng sản phẩm nổi bật:</strong> Calatrava, Complication, Nautilus, Aquanaut.</p>
+					<description><![CDATA[<h1 id="prodName" class="mb-2"><a class="f-17 qvPrdURL link-black text-capitalize" href="https://www.ashford.com/frederique-constant-fc775g4s4.html">Slim Line Men's  Watch</a></h1>
+<h5 id="prodID" class="mt-0 mb-4"><span class="prod-sku">SKU: FC775G4S4</span><span id="qvSkuId" class="hidden" data-skuid="FC775G4S4"></span></h5>
+<ul class="product-description">
+ 	<li>Swiss Made</li>
+ 	<li>Movement: Automatic</li>
+ 	<li>Case Width: 42 mm</li>
+ 	<li>Water Resistance: 30 m (100 feet)</li>
+ 	<li>Features: Date,Perpetual Calendar</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<table>
+<tbody>
+<tr>
+<td colspan="2">
+<h3 class="head">CASE</h3>
+</td>
+</tr>
+<tr>
+<td class="attr_name">Case Width:</td>
+<td class="attr_value" data-th="Case Width" data-property="case_width">42 mm</td>
+</tr>
+<tr>
+<td class="attr_name">Case Depth:</td>
+<td class="attr_value" data-th="Case Depth" data-property="case_depth">12.5 mm</td>
+</tr>
+<tr>
+<td class="attr_name">Crystal:</td>
+<td class="attr_value" data-th="Crystal" data-property="case_crystal">Sapphire Crystal Scratch Resistant</td>
+</tr>
+<tr>
+<td class="attr_name">Material:</td>
+<td class="attr_value" data-th="Material" data-property="case_material">Stainless Steel</td>
+</tr>
+<tr>
+<td class="attr_name">Shape:</td>
+<td class="attr_value" data-th="Shape" data-property="case_shape">Round</td>
+</tr>
+<tr>
+<td class="attr_name">Water Resistance:</td>
+<td class="attr_value" data-th="Water Resistance" data-property="case_water_resistance">30 m (100 feet)</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://mailinhchi.github.io/mywordpress/product/patek-philippe/feed/</wfw:commentRss>
+					<wfw:commentRss>https://mailinhchi.github.io/mywordpress/san-pham/patek-philippe/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
